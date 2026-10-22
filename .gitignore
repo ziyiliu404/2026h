@@ -1,0 +1,20 @@
+# ---- CCS 构建输出 (Debug/) ----
+Debug/
+
+# ---- 自动生成的工具文件 ----
+.clangd
+.agents/
+
+# ---- 临时目录 ----
+tmp/
+
+# ---- 编译中间产物 / 二进制 ----
+*.out
+*.map
+*.hex
+*.bin
+*.obj
+*.o
+*.a
+*.d
+*.linkInfo.xml
